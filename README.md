@@ -1,7 +1,7 @@
 👋 Hi, I’m @anisuloni 
 
 I am a problem solver who happens to be a UX Designer by profession. I have been solving daily challenges 
-through my design for the last 7 years, employing the human-centered design philosophy. When I'm not behind a screen, I'm out driving my car.
+through my design for the last 7 years, employing the human-centered design philosophy. When I'm not behind a screen, I'm out driving my car 🚗 
 
 - 👀 I’m interested in solving problems and improve people's daily lives by Product and UX Designing. I have a passion to motivating and mentoring the new talents in the tech world.
 
