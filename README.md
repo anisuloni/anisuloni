@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anisuloni 
+👋 Hi, I’m @anisuloni 
 
 I am a problem solver who happens to be a UX Designer by profession. I have been solving daily challenges 
 through my design for the last 7 years, employing the human-centered design philosophy.
